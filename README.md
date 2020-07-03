@@ -1,3 +1,3 @@
 # Learning Git and Github
 
-I am learning git.
+I am learning git!
